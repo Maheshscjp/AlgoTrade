@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "kite_stream_schedule",
+  "type": "java.lang.String",
+  "description": "A description for 'kite_stream_schedule'"
+}]}
